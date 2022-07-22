@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#
+# Indefinitely write text to tmpfile (default '/tmp/my_process')
+
